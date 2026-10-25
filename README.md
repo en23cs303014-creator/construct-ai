@@ -19,7 +19,7 @@ By fusing **multimodal artificial intelligence** (processing site imagery, struc
 
 > **Program:** Generative AI with Google Cloud Virtual Internship  
 > **Platform:** SmartInternz / MySkillWallet  
-> **Author:** Dev Jaiswal  
+> **Author:** Mahak Khatri  
 
 ---
 
